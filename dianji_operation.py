@@ -72,8 +72,8 @@ def t_left(sleep_time,dutyratio_left,dutyratio_right,fre=100):
     GPIO.cleanup()
 
 if __name__=='__main__':
-    t_up(1,60)
-    #t_down(1,30)
+    t_up(3,60)
+    t_down(3,30)
     #t_left(1,70,70)
     #t_right(1,60,60)
     #t_stop(1)

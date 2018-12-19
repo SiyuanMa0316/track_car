@@ -1,6 +1,6 @@
 pic_wid = 640
 pic_len = 400#NOT needed
-initial_vel = 0
+initial_vel = 40
 delta_wid = 80
 delta_vel = 20
 delta_radius = 50
